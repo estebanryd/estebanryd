@@ -1,0 +1,80 @@
+h1 {
+    color: orange;
+    font-style: italic;
+    font-family: 'Copperplate Gothic';
+    Font-size: 40px;
+}
+h2 {
+    color: gold;
+    font-style: normal;
+    font-family: neogrotescas;
+    Font-size: 46px;
+}
+body {
+    background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+
+}
+div {
+    border: 2px solid red;
+}
+    .container{
+    display: flex;
+    flex-wrap:wrap;
+    min-height:100vh;
+    box-sizing:border-box;
+
+}
+
+.encavezado h1{
+    background-color: blueviolet;
+    flex: 0 0 100%;
+    color: orange;
+    padding: 20px;
+    box-sizing: border-box;
+    background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+}
+.encavezado {
+   color:white;
+   flex: 0 0 100%;
+   padding: 20px;
+   box-sizing: border-box;
+   background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+}
+
+.navegacion {
+    background-color: darkblue;
+    flex: 0 0 100%;
+    color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.slidebar {
+    background: red;
+    flex: 0 0 20%;
+    color: black;
+    padding: 1px;
+    box-sizing: border-box;
+}
+.main-content {
+    background-color: black;
+    flex: 0 0 80%;
+    color: black;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.articulouno {
+    background-color: blue;
+    margin-bottom:30px;
+}
+.articulodos {
+    background-color: blue;
+    margin-bottom: 30px;
+}
+.piedepagina {
+    background-color: black;
+    flex: 0 0 100%;
+    color: black;
+    padding: 20px;
+    box-sizing: border-box;
+}
