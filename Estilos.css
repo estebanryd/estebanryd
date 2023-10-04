@@ -1,8 +1,8 @@
 h1 {
-    color:orange;
-    font-style:italic;
-    font-family:'Copperplate Gothic';
-    Font-size:40px;
+    color: orange;
+    font-style: italic;
+    font-family: 'Copperplate Gothic';
+    Font-size: 40px;
 }
 h2 {
     color: gold;
@@ -11,7 +11,7 @@ h2 {
     Font-size: 46px;
 }
 body {
-    background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+    background-image:url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73")
 
 }
 div {
@@ -31,14 +31,15 @@ div {
     color: orange;
     padding: 20px;
     box-sizing: border-box;
-    background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+    background-image:url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73")
+
 }
 .encavezado {
    color:white;
    flex: 0 0 100%;
    padding: 20px;
    box-sizing: border-box;
-   background-image:"C:\Users\804\Documents\Esteban Reyes\Imagenes\Fondo.png"
+   background-image:url("https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73https://img.freepik.com/vector-gratis/fondo-hexagonal-oscuro-color-degradado_79603-1409.jpg?w=1380&t=st=1686746524~exp=1686747124~hmac=8f53d0c76db3b69a6a50880577fa4073b74041a4124114153b5ba6b0dc2cba73")
 }
 
 .navegacion {
